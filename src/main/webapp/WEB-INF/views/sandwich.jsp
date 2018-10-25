@@ -15,7 +15,7 @@
 <form method="post">
         <input type="checkbox" value="thit" name="nhan">thịt<br>
         <input type="checkbox" value="rau" name="nhan">rau<br>
-        <input type="checkbox" value="cà chua" name="nhan">cà chua<br>
+        <input type="checkbox" value="ca chua" name="nhan">cà chua<br>
         <input type="checkbox" value="pho mai" name="nhan">phô mai<br>
         <input type="checkbox" value="pate" name="nhan">pate<br>
         <input type="checkbox" value="xuc xich" name="nhan">xúc xích<br>
